@@ -15,7 +15,7 @@ app.get('/checkversion', (req, res) => {
 app.post('/checkversion', (req, res) => {
   
 console.log("HERE ");
-  res.send('1' );
+  res.send('0' );
 
 })
 
